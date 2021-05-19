@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## School Is A Great Place To Go.Kids Can Learn And Get Smart!Teachers Make Math Fun.And You Get To Go Outside And Play!
 
 You can use the [editor on GitHub](https://github.com/Rohan66/School-WebSite-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
